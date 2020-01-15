@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">recycleview</string>
+
+    <string-array name="reslst">
+        <item>Hello</item>
+        <item>Hi</item>
+        <item>Bye</item>
+        <item>Bye</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>hello</item>
+        <item>How can i help you</item>
+        <item>do you have anybooks </item>
+        <item>Which type of books do you prefer</item>
+        <item>Any type will do</item>
+    </string-array>
+</resources>
